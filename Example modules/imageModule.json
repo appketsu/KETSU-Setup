@@ -4,7 +4,7 @@
       "moduleInitials": "",
       "moduleDesc": "This module allows you to test the image viewer/reader",
       "developer": "dev",
-      "moduleID": "123123442223",
+      "moduleID": "9888828348382843",
       "moduleImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Picture_icon_BLACK.svg/1200px-Picture_icon_BLACK.svg.png",
       "moduleVersion": 1,
       "moduleLenguage": "ENG",
@@ -108,7 +108,7 @@
                 "moduleID": "2384029348",
                 "isChapter": false,
                 "link": {
-                  "url": "https://google.com/?text=",
+                  "url": "https://google.com/?image=",
                   "method": "get",
                   "headers": [
                     {
@@ -195,7 +195,7 @@
                 "moduleID": "2384029348",
                 "isChapter": false,
                 "link": {
-                  "url": "https://google.com/?text=",
+                  "url": "https://google.com/?image=",
                   "method": "get",
                   "headers": [
                     {

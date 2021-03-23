@@ -4,7 +4,7 @@
       "moduleInitials": "",
       "moduleDesc": "This module allows you to test the custom Video player",
       "developer": "dev",
-      "moduleID": "2345233322223",
+      "moduleID": "823482342734",
       "moduleImage": "https://img.icons8.com/ios/452/video.png",
       "moduleVersion": 1,
       "moduleLenguage": "ENG",
@@ -108,7 +108,7 @@
                 "moduleID": "2384029348",
                 "isChapter": false,
                 "link": {
-                  "url": "https://google.com/?video",
+                  "url": "https://google.com/?video=",
                   "method": "get",
                   "headers": [
                     {
