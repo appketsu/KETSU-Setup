@@ -108,7 +108,7 @@
                 "moduleID": "2384029348",
                 "isChapter": false,
                 "link": {
-                  "url": "https://google.com/",
+                  "url": "https://google.com/?video",
                   "method": "get",
                   "headers": [
                     {
@@ -195,7 +195,7 @@
                 "moduleID": "2384029348",
                 "isChapter": false,
                 "link": {
-                  "url": "https://google.com/",
+                  "url": "https://google.com/?video=",
                   "method": "get",
                   "headers": [
                     {
