@@ -343,22 +343,7 @@
         "output": {
           "moduleID": "234234823",
           "videos": {
-            "needsResolver": [
-              {
-                "resolverIdentifier": "",
-                "link": {
-                  "url": "",
-                  "method": "get",
-                  "headers": [
-                    {
-                      "key": "key",
-                      "value": "value"
-                    }
-                  ],
-                  "httpBody": null
-                }
-              }
-            ],
+            "needsResolver": [],
             "rawVideo": [
               {
                 "video": [
