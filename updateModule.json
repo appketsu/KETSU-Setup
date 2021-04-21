@@ -99,7 +99,7 @@
                   ],
                   "httpBody": null
                 },
-                "title": "This is an example module. It doesnt do anything!",
+                "title": "This is an example module. It doesnt do anything!\n\nKETSU doesn´t offer any modules, go look for modules somewhere else.",
                 "description": "",
                 "field1": "",
                 "field2": "",
